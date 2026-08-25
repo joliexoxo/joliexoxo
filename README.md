@@ -4,7 +4,7 @@
 
 [![Location](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg)](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) `France`
 
-![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2Fjoliexoxo&leftColor=000000&rightColor=f3e8b4&type=total&label=Viewers&style=none)
+![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2Fjoliexoxo&leftColor=1e232a&rightColor=f3e8b4&type=unique&label=views&style=lower)
 
 🛠️ Working on [nos-project.xyz](https://www.nos-project.xyz/) + other projects
 
