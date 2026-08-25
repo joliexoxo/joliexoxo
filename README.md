@@ -1,6 +1,7 @@
 <img src="https://avatars.githubusercontent.com/u/272908318?v=4" width="100" />
 
 [![People](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg)](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg) `19yo`
+
 &nbsp;&nbsp;
 [![Location](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg)](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) `France`
 
